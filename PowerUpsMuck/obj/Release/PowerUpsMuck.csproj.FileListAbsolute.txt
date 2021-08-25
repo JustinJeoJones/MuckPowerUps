@@ -1,0 +1,4 @@
+C:\Users\Jeo\source\repos\PowerUpsMuck\PowerUpsMuck\obj\Release\PowerUpsMuck.csproj.CoreCompileInputs.cache
+C:\Users\Jeo\source\repos\PowerUpsMuck\PowerUpsMuck\Package\plugins\PowerUpsMuck\PowerUpsMuck.dll
+C:\Users\Jeo\source\repos\PowerUpsMuck\PowerUpsMuck\obj\Release\PowerUpsMuck.dll
+C:\Users\Jeo\source\repos\PowerUpsMuck\PowerUpsMuck\obj\Release\PowerUpsMuck.csprojAssemblyReference.cache

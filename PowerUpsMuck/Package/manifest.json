@@ -1,0 +1,9 @@
+{
+  "name": "PowerUpsMuck",
+  "description": "This is a Bepinex mod for Muck.",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "dependencies": [
+    "BepInEx-BepInExPack_Muck-5.4.1100"
+  ]
+}
